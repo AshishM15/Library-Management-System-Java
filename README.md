@@ -1,5 +1,4 @@
 # Library-Management-System-Java
-# Library Management System
 
 A Java-based Library Management System developed using Core Java, JDBC, and MySQL.
 
